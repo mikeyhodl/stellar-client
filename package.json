@@ -54,7 +54,7 @@
     "opn": "^0.1.1",
     "protractor": "1.4.0",
     "run-sequence": "^1.0.2",
-    "tmp": "0.0.23",
+    "tmp": "0.2.6",
     "wiredep": "^1.4.3"
   },
   "engines": {
